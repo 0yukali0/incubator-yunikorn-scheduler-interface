@@ -61,6 +61,7 @@ const (
 const (
 	Memory                       = "memory"
 	CPU                          = "vcore"
+        Duration                     = "duration"
 	AppTagNamespaceResourceQuota = "namespace.resourcequota"
 	AppTagStateAwareDisable      = "application.stateaware.disable"
 	NodeReadyAttribute           = "ready"
